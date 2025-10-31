@@ -1,0 +1,304 @@
+{
+  "countries": [
+    {
+      "name": "Indonesia",
+      "population": 240000000,
+      "muslims": 213000000
+    },
+    {
+      "name": "Pakistan",
+      "population": 220000000,
+      "muslims": 201000000
+    },
+    {
+      "name": "Bangladesh",
+      "population": 170000000,
+      "muslims": 165000000
+    },
+    {
+      "name": "India",
+      "population": 1300000000,
+      "muslims": 195000000
+    },
+    {
+      "name": "Nigeria",
+      "population": 200000000,
+      "muslims": 100000000
+    },
+    {
+      "name": "Egypt",
+      "population": 100000000,
+      "muslims": 95000000
+    },
+    {
+      "name": "Turkey",
+      "population": 85000000,
+      "muslims": 80000000
+    },
+    {
+      "name": "Iran",
+      "population": 82000000,
+      "muslims": 79000000
+    },
+    {
+      "name": "Algeria",
+      "population": 43000000,
+      "muslims": 42000000
+    },
+    {
+      "name": "Morocco",
+      "population": 36000000,
+      "muslims": 33000000
+    },
+    {
+      "name": "Iraq",
+      "population": 40000000,
+      "muslims": 38000000
+    },
+    {
+      "name": "Saudi Arabia",
+      "population": 34000000,
+      "muslims": 33000000
+    },
+    {
+      "name": "Sudan",
+      "population": 44000000,
+      "muslims": 42000000
+    },
+    {
+      "name": "Afghanistan",
+      "population": 32000000,
+      "muslims": 31000000
+    },
+    {
+      "name": "Yemen",
+      "population": 28000000,
+      "muslims": 27000000
+    },
+    {
+      "name": "Malaysia",
+      "population": 31000000,
+      "muslims": 30000000
+    },
+    {
+      "name": "Uzbekistan",
+      "population": 32000000,
+      "muslims": 28000000
+    },
+    {
+      "name": "Mozambique",
+      "population": 29000000,
+      "muslims": 2000000
+    },
+    {
+      "name": "Kazakhstan",
+      "population": 19000000,
+      "muslims": 17000000
+    },
+    {
+      "name": "Senegal",
+      "population": 16000000,
+      "muslims": 15000000
+    },
+    {
+      "name": "Tanzania",
+      "population": 58000000,
+      "muslims": 55000000
+    },
+    {
+      "name": "Kenya",
+      "population": 51000000,
+      "muslims": 45000000
+    },
+    {
+      "name": "Ghana",
+      "population": 31000000,
+      "muslims": 4000000
+    },
+    {
+      "name": "Niger",
+      "population": 22000000,
+      "muslims": 21000000
+    },
+    {
+      "name": "Uganda",
+      "population": 42000000,
+      "muslims": 12000000
+    },
+    {
+      "name": "Mali",
+      "population": 18000000,
+      "muslims": 17000000
+    },
+    {
+      "name": "Cameroon",
+      "population": 25000000,
+      "muslims": 10000000
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "population": 26000000,
+      "muslims": 5000000
+    },
+    {
+      "name": "Chad",
+      "population": 15000000,
+      "muslims": 14000000
+    },
+    {
+      "name": "Somalia",
+      "population": 15000000,
+      "muslims": 14500000
+    },
+    {
+      "name": "Guinea",
+      "population": 13000000,
+      "muslims": 12000000
+    },
+    {
+      "name": "Tunisia",
+      "population": 11000000,
+      "muslims": 10500000
+    },
+    {
+      "name": "Syria",
+      "population": 18000000,
+      "muslims": 16000000
+    },
+    {
+      "name": "Jordan",
+      "population": 10000000,
+      "muslims": 9900000
+    },
+    {
+      "name": "Lebanon",
+      "population": 7000000,
+      "muslims": 5000000
+    },
+    {
+      "name": "Palestine",
+      "population": 5000000,
+      "muslims": 4900000
+    },
+    {
+      "name": "Libya",
+      "population": 6500000,
+      "muslims": 6400000
+    },
+    {
+      "name": "Oman",
+      "population": 4900000,
+      "muslims": 4800000
+    },
+    {
+      "name": "Mauritania",
+      "population": 4500000,
+      "muslims": 4400000
+    },
+    {
+      "name": "Kuwait",
+      "population": 4200000,
+      "muslims": 4100000
+    },
+    {
+      "name": "Qatar",
+      "population": 2700000,
+      "muslims": 2600000
+    },
+    {
+      "name": "Bahrain",
+      "population": 1700000,
+      "muslims": 1600000
+    },
+    {
+      "name": "Djibouti",
+      "population": 1000000,
+      "muslims": 950000
+    },
+    {
+      "name": "Brunei",
+      "population": 420000,
+      "muslims": 410000
+    },
+    {
+      "name": "Comoros",
+      "population": 850000,
+      "muslims": 840000
+    },
+    {
+      "name": "Maldives",
+      "population": 440000,
+      "muslims": 430000
+    },
+    {
+      "name": "Gambia",
+      "population": 2400000,
+      "muslims": 2300000
+    },
+    {
+      "name": "Suriname",
+      "population": 580000,
+      "muslims": 570000
+    },
+    {
+      "name": "Guyana",
+      "population": 780000,
+      "muslims": 770000
+    },
+    {
+      "name": "Fiji",
+      "population": 890000,
+      "muslims": 880000
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "population": 1400000,
+      "muslims": 1300000
+    },
+    {
+      "name": "Oman",
+      "population": 4900000,
+      "muslims": 4800000
+    },
+    {
+      "name": "Malta",
+      "population": 450000,
+      "muslims": 440000
+    },
+    {
+      "name": "Cyprus",
+      "population": 1200000,
+      "muslims": 1100000
+    },
+    {
+      "name": "Sierra Leone",
+      "population": 8100000,
+      "muslims": 8000000
+    },
+    {
+      "name": "Madagascar",
+      "population": 25000000,
+      "muslims": 24000000
+    },
+    {
+      "name": "Gambia",
+      "population": 2400000,
+      "muslims": 2300000
+    },
+    {
+      "name": "Eritrea",
+      "population": 3600000,
+      "muslims": 3500000
+    },
+    {
+      "name": "Benin",
+      "population": 11733059,
+      "muslims": 3500000
+    },
+    {
+      "name": "Togo",
+      "population": 7300000,
+      "muslims": 5000000
+    }
+  ]
+}
